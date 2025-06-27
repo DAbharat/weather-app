@@ -45,3 +45,9 @@ To try it out locally:
 1. Clone the repo:
    ```bash
    git clone https://github.com/DAbharat/weather-app.git
+
+
+✨ Author
+👨‍💻 @DAbharat
+
+
