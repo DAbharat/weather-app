@@ -38,6 +38,14 @@ This is a simple, responsive weather application I built as a **beginner project
 
 ---
 
+## 📁 Files
+
+- `index.html` — Main UI
+- `script.js` — Logic and API call
+- `cities.js` — City name suggestions
+
+---
+
 ## 📦 Getting Started
 
 To try it out locally:
@@ -45,9 +53,17 @@ To try it out locally:
 1. Clone the repo:
    ```bash
    git clone https://github.com/DAbharat/weather-app.git
+   
+2. Open `script.template.js` and replace the placeholder API key:
+   ```js
+   const apiKey = "ADD YOUR API KEY HERE";
+
+---
+
+## 👨‍💻 Author
+
+- [@DAbharat](https://github.com/DAbharat)
 
 
-✨ Author
-👨‍💻 @DAbharat
 
 
